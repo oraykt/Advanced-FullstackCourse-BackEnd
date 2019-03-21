@@ -1,5 +1,5 @@
 #endpoint: ${env:PRISMA_ENDPOINT}
-endpoint: https://eu1.prisma.sh/oray-kurt-c53b92/sickkkk-fits/dev
+endpoint: https://eu1.prisma.sh/oray-kurt-c53b92/sick-fits/dev
 datamodel: datamodel.graphql
 # secret: ${env:PRISMA_SECRET}
 hooks: 
