@@ -7,3 +7,8 @@
 ![](https://media.giphy.com/media/8wfrWUKRJcofhdnN9n/giphy.gif)
 
 <br/>
+
+
+```
+npm run deploy
+http://localhost:4444/
