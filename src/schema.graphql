@@ -7,13 +7,16 @@ type Mutation {
         price: Int,
         image: String,
         largeImage: String
-        ):Item!
+    ):Item!
     updateItem(
         id: ID!,
         title: String,
         description: String,
         price: Int
-        ): Item!
+    ): Item!
+    deleteItem(
+        id: ID!
+    ): Item!
 }
 
 type Query {
