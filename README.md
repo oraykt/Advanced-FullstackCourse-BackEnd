@@ -9,6 +9,8 @@
 <br/>
 
 
-```
+```bash
 npm run deploy
+```
+
 http://localhost:4444/
