@@ -10,7 +10,7 @@
 
 
 ```bash
-npm run deploy
+https://github.com/oraykt/Advanced-FullstackCourse-BackEnd.git && npm run deploy
 ```
 
 http://localhost:4444/
